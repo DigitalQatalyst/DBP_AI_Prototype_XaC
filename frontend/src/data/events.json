@@ -1,0 +1,195 @@
+{
+  "records": [
+    {
+      "event_title": "Abu Dhabi SME Innovation Forum 2026",
+      "slug": "abu-dhabi-sme-innovation-forum-2026",
+      "event_description": "An annual flagship gathering that brings together visionary founders, technology leaders, and policymakers within the UAE ecosystem to discuss digital integration, sustainable growth strategies, and cross-border commercial scaling.",
+      "event_location": "Abu Dhabi National Exhibition Centre (ADNEC), Abu Dhabi, UAE",
+      "event_type": "Forum & Panel Discussion",
+      "delivery_mode": "In-person",
+      "capability": "Business Strategy & Innovation",
+      "business_stage": [
+        "Launch",
+        "Growth",
+        "Expansion"
+      ],
+      "industry": [
+        "Technology",
+        "Sustainability",
+        "Retail & E-commerce",
+        "Cross-border Logistics"
+      ],
+      "duration_band": "Full Day",
+      "language": "English & Arabic",
+      "event_host": "Department of Economic Development (DED)",
+      "event_provider": "Khalifa Fund",
+      "featured_speakers": [
+        "H.E. Mohamed Ali Al Shorafa (Keynote Speaker)",
+        "Dr. Aisha Bin Bishr (Digital Transformation Expert)",
+        "Fadi Ghandour (Venture Capital & Logistics Panelist)"
+      ],
+      "event_requirements": [
+        "Pre-registration required via eJP portal",
+        "Active commercial license preferred for networking lounge access"
+      ],
+      "event_link": "https://ejp.ae/events/sme-innovation-forum-2026",
+      "tags": [
+        "forum",
+        "sme development",
+        "innovation",
+        "networking",
+        "sustainability",
+        "digital integration",
+        "uae ecosystem",
+        "abu dhabi",
+        "launch",
+        "growth",
+        "expansion",
+        "cross-border scaling"
+      ],
+      "searchable_content": "Abu Dhabi SME Innovation Forum 2026 is a Business Strategy & Innovation forum and panel discussion designed for startups and SMEs in the Launch, Growth, and Expansion stages to explore digital integration, sustainable growth strategies, and cross-border commercial scaling. Organized by the Department of Economic Development (DED) and Khalifa Fund, this flagship in-person event offers valuable networking opportunities with technology leaders and policymakers within the UAE ecosystem.",
+      "metadata": {
+        "business_stage": [
+          "Launch",
+          "Growth",
+          "Expansion"
+        ],
+        "industry": [
+          "Technology",
+          "Sustainability",
+          "Retail & E-commerce",
+          "Cross-border Logistics"
+        ],
+        "capability": "Business Strategy & Innovation",
+        "event_type": "Forum & Panel Discussion",
+        "provider": "Khalifa Fund"
+      },
+      "source_sheet": "eJP-Events"
+    },
+    {
+      "event_title": "FinTech Sandbox Interactive Meetup",
+      "slug": "fintech-sandbox-interactive-meetup",
+      "event_description": "A collaborative hands-on technical workshop and networking mixer linking disruptive fintech startups with regional banking entities, compliance experts, and regulatory sandbox frameworks in Abu Dhabi.",
+      "event_location": "Hub71, Al Maryah Island, Abu Dhabi, UAE",
+      "event_type": "Networking & Workshop",
+      "delivery_mode": "In-person",
+      "capability": "Finance & Investment",
+      "business_stage": [
+        "Idea",
+        "Launch"
+      ],
+      "industry": [
+        "FinTech",
+        "Banking",
+        "Venture Capital"
+      ],
+      "duration_band": "Half Day",
+      "language": "English",
+      "event_host": "ADGM Regulatory Authorities",
+      "event_provider": "Khalifa Fund (MZN)",
+      "featured_speakers": [
+        "Richard Teng (Regulatory Framework Advisor)",
+        "Amira Ghafour (Fintech Founder Representative)"
+      ],
+      "event_requirements": [
+        "Open to tech entrepreneurs, developers, and financial analysts",
+        "Submission of a baseline fintech product concept is highly recommended"
+      ],
+      "event_link": "https://ejp.ae/events/fintech-sandbox-meetup",
+      "tags": [
+        "fintech",
+        "workshop",
+        "meetup",
+        "networking",
+        "regulatory sandbox",
+        "adgm",
+        "banking",
+        "venture capital",
+        "idea",
+        "launch",
+        "disruptive technology",
+        "hub71"
+      ],
+      "searchable_content": "FinTech Sandbox Interactive Meetup is a Finance & Investment networking event and workshop tailored for tech entrepreneurs and developers in the Idea and Launch stages. The meetup connects disruptive fintech startups with regional banking entities, compliance experts, and regulatory sandbox frameworks in Abu Dhabi, facilitating technical validation, regulatory alignment, and venture capital engagement at Hub71.",
+      "metadata": {
+        "business_stage": [
+          "Idea",
+          "Launch"
+        ],
+        "industry": [
+          "FinTech",
+          "Banking",
+          "Venture Capital"
+        ],
+        "capability": "Finance & Investment",
+        "event_type": "Networking & Workshop",
+        "provider": "Khalifa Fund (MZN)"
+      },
+      "source_sheet": "eJP-Events"
+    },
+    {
+      "event_title": "AI Adoption and Corporate Matchmaking Web-Summit",
+      "slug": "ai-adoption-and-corporate-matchmaking-web-summit",
+      "event_description": "A high-impact virtual summit tailored for scalable tech ventures looking to pitch their artificial intelligence, data analytics, and automation solutions directly to enterprise buyers and public sector procurement managers.",
+      "event_location": "Virtual / Cisco Webex Link provided upon confirmation",
+      "event_type": "Webinar & Matchmaking",
+      "delivery_mode": "Online",
+      "capability": "Technology & Digital Systems",
+      "business_stage": [
+        "Growth",
+        "Expansion",
+        "Optimization"
+      ],
+      "industry": [
+        "Artificial Intelligence",
+        "Data Analytics",
+        "Enterprise Software",
+        "Automation"
+      ],
+      "duration_band": "2–4 Hours",
+      "language": "English",
+      "event_host": "Digital Dubai Authority",
+      "event_provider": "Khalifa Fund",
+      "featured_speakers": [
+        "Omar Al Olama (AI Strategy Keynote)",
+        "Sarah Al Amiri (Advanced Sciences Panelist)"
+      ],
+      "event_requirements": [
+        "Must be a verified tech company on the eJP platform",
+        "Requires a finalized corporate deck and working software MVP"
+      ],
+      "event_link": "https://ejp.ae/events/ai-corporate-matchmaking-2026",
+      "tags": [
+        "artificial intelligence",
+        "matchmaking",
+        "corporate pitching",
+        "procurement",
+        "enterprise software",
+        "automation",
+        "virtual summit",
+        "growth",
+        "expansion",
+        "optimization",
+        "data analytics"
+      ],
+      "searchable_content": "AI Adoption and Corporate Matchmaking Web-Summit is a Technology & Digital Systems online event designed for scalable tech ventures in the Growth, Expansion, and Optimization stages. The digital summit allows businesses to pitch artificial intelligence, data analytics, and automation solutions directly to enterprise buyers and public sector procurement managers, strengthening B2B growth and corporate partnerships.",
+      "metadata": {
+        "business_stage": [
+          "Growth",
+          "Expansion",
+          "Optimization"
+        ],
+        "industry": [
+          "Artificial Intelligence",
+          "Data Analytics",
+          "Enterprise Software",
+          "Automation"
+        ],
+        "capability": "Technology & Digital Systems",
+        "event_type": "Webinar & Matchmaking",
+        "provider": "Khalifa Fund"
+      },
+      "source_sheet": "eJP-Events"
+    }
+  ]
+}

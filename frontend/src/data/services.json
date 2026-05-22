@@ -1,0 +1,221 @@
+{
+  "records": [
+    {
+      "service_name": "Facilitate Communication With Strategic Stakeholders",
+      "slug": "facilitate-communication-with-strategic-stakeholders",
+      "service_description": "Supports SMEs in establishing and maintaining connections with key industry and government stakeholders.",
+      "service_category": "Support Services",
+      "service_sub_category": null,
+      "provider_name": "Khalifa Fund",
+      "stakeholder_segment": [
+        "eJP Service Provider"
+      ],
+      "target_customer_type": [
+        "Small Enterprises (SEs)",
+        "Medium Enterprises (MdEs)"
+      ],
+      "target_business_stage": [
+        "Launch",
+        "Growth"
+      ],
+      "target_growth_area": [
+        "All Growth Areas"
+      ],
+      "eligibility_requirements": [],
+      "key_highlights": [
+        "Formal facilitation of introductions to relevant government and industry entities.",
+        "Support to initiate contact aligned to defined business objectives.",
+        "Guidance on appropriate channels and points of contact."
+      ],
+      "key_terms": [],
+      "additional_terms": [],
+      "service_mode": null,
+      "required_documents": [],
+      "cost": null,
+      "duration": null,
+      "steps": [],
+      "tags": [
+        "support services",
+        "stakeholder engagement",
+        "networking",
+        "government relations",
+        "b2g",
+        "launch",
+        "growth",
+        "sme",
+        "strategic partnerships"
+      ],
+      "searchable_content": "Facilitate Communication With Strategic Stakeholders supports Small Enterprises (SEs) and Medium Enterprises (MdEs) in establishing and maintaining connections with key industry and government stakeholders. This support service helps businesses in the launch and growth stages by facilitating introductions, initiating contact aligned with business objectives, and guiding appropriate channel selection.",
+      "metadata": {
+        "business_stage": [
+          "Launch",
+          "Growth"
+        ],
+        "growth_area": [
+          "All Growth Areas"
+        ],
+        "customer_type": [
+          "Small Enterprises (SEs)",
+          "Medium Enterprises (MdEs)"
+        ],
+        "service_category": "Support Services",
+        "provider": "Khalifa Fund"
+      },
+      "source_sheet": "eJP-Services"
+    },
+    {
+      "service_name": "Non-Financial Services Marketplace",
+      "slug": "non-financial-services-marketplace",
+      "service_description": "Through this service, entrepreneurs are matched with relevant partners and clients, unlocking collaborations, vendor agreements, and business growth opportunities.",
+      "service_category": "Business Development, Incentives & Incubation",
+      "service_sub_category": null,
+      "provider_name": "Khalifa Fund",
+      "stakeholder_segment": [
+        "eJP Service Provider"
+      ],
+      "target_customer_type": [
+        "SMEs",
+        "Startups",
+        "Export-Oriented Businesses"
+      ],
+      "target_business_stage": [
+        "Growth",
+        "Expansion",
+        "Optimization"
+      ],
+      "target_growth_area": [
+        "All Growth Areas"
+      ],
+      "eligibility_requirements": [
+        "Subject to KF membership"
+      ],
+      "key_highlights": [],
+      "key_terms": [],
+      "additional_terms": [],
+      "service_mode": null,
+      "required_documents": [
+        "Business profile",
+        "ID documents"
+      ],
+      "cost": "No cost",
+      "duration": "2–4 Weeks",
+      "steps": [
+        "Submit matchmaking request.",
+        "KF identifies and validates suitable matches.",
+        "Curated introductions arranged.",
+        "Track outcomes and feedback."
+      ],
+      "tags": [
+        "business development",
+        "incentives",
+        "incubation",
+        "matchmaking",
+        "partnerships",
+        "growth",
+        "expansion",
+        "optimization",
+        "sme",
+        "startup",
+        "vendor agreements"
+      ],
+      "searchable_content": "Non-Financial Services Marketplace matches entrepreneurs with relevant partners and clients, unlocking collaborations, vendor agreements, and business growth opportunities. This business development, incentives, and incubation service is designed for SMEs, startups, and export-oriented businesses in growth, expansion, and optimization stages, and requires Khalifa Fund membership.",
+      "metadata": {
+        "business_stage": [
+          "Growth",
+          "Expansion",
+          "Optimization"
+        ],
+        "growth_area": [
+          "All Growth Areas"
+        ],
+        "customer_type": [
+          "SMEs",
+          "Startups",
+          "Export-Oriented Businesses"
+        ],
+        "service_category": "Business Development, Incentives & Incubation",
+        "provider": "Khalifa Fund"
+      },
+      "source_sheet": "eJP-Services"
+    },
+    {
+      "service_name": "Events & Exhibitions Participation Support",
+      "slug": "events-and-exhibitions-participation-support",
+      "service_description": "Provides SMEs with access to high-impact exhibitions, conferences, and trade shows to showcase products, expand networks, and explore commercial opportunities.",
+      "service_category": "Calendar Marketplace",
+      "service_sub_category": null,
+      "provider_name": "Khalifa Fund (MZN)",
+      "stakeholder_segment": [
+        "eJP Service Provider"
+      ],
+      "target_customer_type": [
+        "SMEs",
+        "Startups",
+        "Export-Oriented Businesses"
+      ],
+      "target_business_stage": [
+        "Growth",
+        "Expansion",
+        "Optimization"
+      ],
+      "target_growth_area": [
+        "All Growth Areas"
+      ],
+      "eligibility_requirements": [
+        "Subject to event criteria and KF selection"
+      ],
+      "key_highlights": [
+        "Through this service, SMEs can participate in curated exhibitions and conferences, boosting visibility, market positioning, and partnerships in local and international markets."
+      ],
+      "key_terms": [],
+      "additional_terms": [],
+      "service_mode": null,
+      "required_documents": [
+        "Event registration form",
+        "Company profile",
+        "Product/service details"
+      ],
+      "cost": "Fees may apply (subsidized by KF in some cases)",
+      "duration": "4–8 Weeks",
+      "steps": [
+        "Apply for exhibition participation.",
+        "Selection based on eligibility criteria.",
+        "KF supports registration, booth setup, and logistics.",
+        "Attend event and submit post-event feedback."
+      ],
+      "tags": [
+        "calendar marketplace",
+        "exhibitions",
+        "conferences",
+        "trade shows",
+        "growth",
+        "expansion",
+        "optimization",
+        "sme",
+        "startup",
+        "export",
+        "market visibility",
+        "marketing"
+      ],
+      "searchable_content": "Events & Exhibitions Participation Support provides SMEs with access to high-impact exhibitions, conferences, and trade shows to showcase products, expand networks, and explore commercial opportunities. This calendar marketplace service is aimed at SMEs, startups, and export-oriented businesses in growth, expansion, and optimization stages to boost local and international visibility.",
+      "metadata": {
+        "business_stage": [
+          "Growth",
+          "Expansion",
+          "Optimization"
+        ],
+        "growth_area": [
+          "All Growth Areas"
+        ],
+        "customer_type": [
+          "SMEs",
+          "Startups",
+          "Export-Oriented Businesses"
+        ],
+        "service_category": "Calendar Marketplace",
+        "provider": "Khalifa Fund (MZN)"
+      },
+      "source_sheet": "eJP-Services"
+    }
+  ]
+}

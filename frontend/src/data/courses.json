@@ -1,0 +1,236 @@
+{
+  "records": [
+    {
+      "course_title": "SME Digital Cybersecurity Fundamentals",
+      "slug": "sme-digital-cybersecurity-fundamentals",
+      "course_description": "Equips small and medium enterprise owners and managers with the foundational knowledge required to protect their digital assets, comply with local data protection regulations, and respond effectively to basic cybersecurity threats.",
+      "provider": "Khalifa Fund",
+      "instructor": null,
+      "category_stream": "Technology & Digital Systems",
+      "business_stage": [
+        "Launch",
+        "Growth",
+        "Expansion"
+      ],
+      "delivery_mode": "E-Learning",
+      "target_audience": [
+        "SME Owners",
+        "IT Administrators",
+        "Operations Managers",
+        "Startups"
+      ],
+      "learning_outcomes": [
+        "Identify and classify common cyber threats facing modern businesses.",
+        "Implement basic security protocols and password management strategies.",
+        "Understand UAE data privacy regulations and security compliance basics.",
+        "Formulate a baseline incident response plan for data breaches."
+      ],
+      "skills_developed": [
+        "Threat Detection",
+        "Risk Assessment",
+        "Compliance Alignment",
+        "Incident Management",
+        "Data Protection"
+      ],
+      "key_highlights": [
+        "Self-paced online format designed for busy business operators.",
+        "Includes practical checklists for securing company networks.",
+        "Aligned with UAE digital transformation and cyber safety frameworks."
+      ],
+      "duration": "6 Hours",
+      "language": "English",
+      "cost": "Free",
+      "certifications": "Certificate of Completion",
+      "enrollment_process": [
+        "Register through the eJP dashboard.",
+        "Complete the baseline digital awareness survey.",
+        "Access modules via the learning portal."
+      ],
+      "tags": [
+        "cybersecurity",
+        "data protection",
+        "risk management",
+        "compliance",
+        "uae regulations",
+        "technology and digital systems",
+        "launch",
+        "growth",
+        "expansion",
+        "sme",
+        "startup",
+        "digital asset security"
+      ],
+      "searchable_content": "SME Digital Cybersecurity Fundamentals is a Technology & Digital Systems course provided by Khalifa Fund. Designed for SME Owners, IT Administrators, Operations Managers, and Startups in the Launch, Growth, and Expansion stages, it equips participants with the foundational knowledge required to protect digital assets and comply with local data protection regulations. Participants develop skills in Threat Detection, Risk Assessment, Compliance Alignment, Incident Management, and Data Protection, learning to identify cyber threats, implement security protocols, and formulate baseline incident response plans.",
+      "metadata": {
+        "business_stage": [
+          "Launch",
+          "Growth",
+          "Expansion"
+        ],
+        "target_audience": [
+          "SME Owners",
+          "IT Administrators",
+          "Operations Managers",
+          "Startups"
+        ],
+        "category_stream": "Technology & Digital Systems",
+        "provider": "Khalifa Fund"
+      },
+      "source_sheet": "eJP-Courses"
+    },
+    {
+      "course_title": "Financial Literacy and Venture Capital Readiness",
+      "slug": "financial-literacy-and-venture-capital-readiness",
+      "course_description": "An intensive training program designed to transform early-stage entrepreneurs into investment-ready founders by mastering financial statements, unit economics, valuation modeling, and cap table management.",
+      "provider": "Khalifa Fund",
+      "instructor": null,
+      "category_stream": "Finance & Investment",
+      "business_stage": [
+        "Idea",
+        "Launch",
+        "Growth"
+      ],
+      "delivery_mode": "Blended (Online & In-person Workshops)",
+      "target_audience": [
+        "Founders",
+        "Co-founders",
+        "Chief Financial Officers",
+        "Financial Controllers"
+      ],
+      "learning_outcomes": [
+        "Build and interpret professional income statements, balance sheets, and cash flow projections.",
+        "Calculate clear unit economics, customer acquisition cost (CAC), and lifetime value (LTV).",
+        "Evaluate startup valuation methodologies for fundraising rounds.",
+        "Construct an investor pitch deck and manage equity dilution frameworks."
+      ],
+      "skills_developed": [
+        "Financial Modeling",
+        "Valuation",
+        "Pitching",
+        "Equity Management",
+        "Unit Economics"
+      ],
+      "key_highlights": [
+        "Interactive cap table simulation exercises.",
+        "Direct feedback on pitch decks from venture capital mentors.",
+        "Access to financial projection templates tailored to the UAE ecosystem."
+      ],
+      "duration": "4 Weeks",
+      "language": "English & Arabic",
+      "cost": "Subsidized for KF Members",
+      "certifications": "Professional Certificate in Venture Finance",
+      "enrollment_process": [
+        "Submit application form along with business profile.",
+        "Pass initial financial baseline assessment.",
+        "Receive confirmation and workshop timetable."
+      ],
+      "tags": [
+        "finance",
+        "investment",
+        "venture capital",
+        "fundraising",
+        "financial modeling",
+        "valuation",
+        "unit economics",
+        "pitch deck",
+        "cap table",
+        "idea",
+        "launch",
+        "growth",
+        "entrepreneurship"
+      ],
+      "searchable_content": "Financial Literacy and Venture Capital Readiness is a Finance & Investment course provided by Khalifa Fund. Aimed at Founders, Co-founders, Chief Financial Officers, and Financial Controllers within the Idea, Launch, and Growth business stages, this intensive training transforms early-stage entrepreneurs into investment-ready founders. The program builds capabilities in Financial Modeling, Valuation, Pitching, Equity Management, and Unit Economics, enabling participants to build professional financial statements, evaluate startup valuation methodologies, and construct compelling investor pitch decks.",
+      "metadata": {
+        "business_stage": [
+          "Idea",
+          "Launch",
+          "Growth"
+        ],
+        "target_audience": [
+          "Founders",
+          "Co-founders",
+          "Chief Financial Officers",
+          "Financial Controllers"
+        ],
+        "category_stream": "Finance & Investment",
+        "provider": "Khalifa Fund"
+      },
+      "source_sheet": "eJP-Courses"
+    },
+    {
+      "course_title": "E-Commerce Strategy and Global Scale Support",
+      "slug": "e-commerce-strategy-and-global-scale-support",
+      "course_description": "Provides specialized insight into launching, optimizing, and scaling an e-commerce brand globally from the UAE, focusing on cross-border logistics, digital marketing funnels, and payment gateway infrastructure.",
+      "provider": "Khalifa Fund (MZN)",
+      "instructor": null,
+      "category_stream": "Business Development & Markets",
+      "business_stage": [
+        "Growth",
+        "Expansion"
+      ],
+      "delivery_mode": "In-person Lectures",
+      "target_audience": [
+        "Retail Businesses",
+        "E-commerce Managers",
+        "Export-Oriented SMEs",
+        "Digital Marketers"
+      ],
+      "learning_outcomes": [
+        "Optimize e-commerce storefronts for higher conversion rates and lower cart abandonment.",
+        "Navigate cross-border shipping regulations, customs duties, and international fulfillment setup.",
+        "Deploy advanced digital ad spend strategies across multiple social and search channels.",
+        "Integrate scalable multi-currency payment infrastructure into existing checkout models."
+      ],
+      "skills_developed": [
+        "Conversion Rate Optimization (CRO)",
+        "Logistics Management",
+        "Digital Marketing Fuennls",
+        "Cross-Border Trade Compliance",
+        "Payment Architecture Integration"
+      ],
+      "key_highlights": [
+        "Case studies featuring successful UAE-born global e-commerce ventures.",
+        "Practical integration workshops with mainstream regional and global payment providers.",
+        "Strategic modules on global supply chain and fulfillment tracking."
+      ],
+      "duration": "3 Days Intensive",
+      "language": "English",
+      "cost": "Paid (Special discounts for MZN verified companies)",
+      "certifications": "E-Commerce strategist Credential",
+      "enrollment_process": [
+        "Apply via the MZN vendor marketplace portal.",
+        "Provide current e-commerce URL or launch roadmap.",
+        "Complete tuition payment to secure seat allocation."
+      ],
+      "tags": [
+        "e-commerce",
+        "global scale",
+        "cross-border logistics",
+        "digital marketing",
+        "payment gateways",
+        "business development and markets",
+        "growth",
+        "expansion",
+        "retail",
+        "export",
+        "supply chain"
+      ],
+      "searchable_content": "E-Commerce Strategy and Global Scale Support is a Business Development & Markets course provided by Khalifa Fund (MZN). Tailored for Retail Businesses, E-commerce Managers, Export-Oriented SMEs, and Digital Marketers in the Growth and Expansion stages, this course teaches strategies for launching, optimizing, and scaling e-commerce brands globally from the UAE. It develops skills in Conversion Rate Optimization (CRO), Logistics Management, Digital Marketing Funnels, Cross-Border Trade Compliance, and Payment Architecture Integration.",
+      "metadata": {
+        "business_stage": [
+          "Growth",
+          "Expansion"
+        ],
+        "target_audience": [
+          "Retail Businesses",
+          "E-commerce Managers",
+          "Export-Oriented SMEs",
+          "Digital Marketers"
+        ],
+        "category_stream": "Business Development & Markets",
+        "provider": "Khalifa Fund (MZN)"
+      },
+      "source_sheet": "eJP-Courses"
+    }
+  ]
+}
